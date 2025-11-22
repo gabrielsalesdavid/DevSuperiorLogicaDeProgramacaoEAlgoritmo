@@ -117,9 +117,9 @@ Este repositório inclui **duas documentações principais**:
 - Escopo de variáveis
 - Boas práticas de programação
 
-**👉 [Acessar documentação de Fundamentos](./FUNDAMENTOS.md)**
+**👉 [Acessar documentação de Fundamentos](./docs/FUNDAMENTOS.md)**
 
-### 2. 🔧 [CONCEITOS_SINTAXES.md](./CONCEITOS_SINTAXES.md)
+### 2. 🔧 [CONCEITOS_SINTAXES.md](./docs/CONCEITOS_SINTAXES.md)
 
 **Referência prática da sintaxe Portugol/VisualG:**
 
