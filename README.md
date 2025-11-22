@@ -103,7 +103,7 @@ DevSuperiorLogicaDeProgramacaoEAlgoritmo/
 
 Este repositório inclui **duas documentações principais**:
 
-### 1. 📘 [FUNDAMENTOS.md](./FUNDAMENTOS.md)
+### 1. 📘 [FUNDAMENTOS.md](./docs/Fundamentos/FUNDAMENTOS.md)
 
 **Guia completo dos conceitos fundamentais de programação:**
 
@@ -136,7 +136,7 @@ Este repositório inclui **duas documentações principais**:
 - Funções matemáticas integradas
 - Escopo de variáveis
 
-**👉 [Acessar documentação de Sintaxes](./CONCEITOS_SINTAXES.md)**
+**👉 [Acessar documentação de Sintaxes](./docs/Conceitos/CONCEITOS_SINTAXES.md)**
 
 ---
 
@@ -157,8 +157,8 @@ Este repositório inclui **duas documentações principais**:
 
 ### Opção 2: Aprender pela Documentação
 
-1. Leia [FUNDAMENTOS.md](./FUNDAMENTOS.md) para entender os conceitos
-2. Consulte [CONCEITOS_SINTAXES.md](./CONCEITOS_SINTAXES.md) para sintaxe específica
+1. Leia [FUNDAMENTOS.md](./docs/Fundamentos/FUNDAMENTOS.md) para entender os conceitos
+2. Consulte [CONCEITOS_SINTAXES.md](./docs/Conceitos/CONCEITOS_SINTAXES.md) para sintaxe específica
 3. Explore os arquivos `.ALG` neste repositório
 4. Resolva os problemas em `DevSuperior/VisualG/Problemas/`
 
